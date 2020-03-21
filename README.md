@@ -1,4 +1,4 @@
-# flutter_app
+# Restaurant Vacancy Control
 
 A new Flutter application.
 
